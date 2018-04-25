@@ -219,5 +219,12 @@
     <Build Include="dbo\Sequences\product_type_key_seq.sql" />
     <Build Include="dbo\Sequences\entity_person_key_seq.sql" />
     <Build Include="Security\Permissions.sql" />
+    <Build Include="Security\RDRRL8_QIQOServiceAccount.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_ups.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_get.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_del.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_all_by_entity.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_all.sql" />
+    <Build Include="Security\RDRRL8_QIQOServiceAccount_1.sql" />
   </ItemGroup>
 </Project>
